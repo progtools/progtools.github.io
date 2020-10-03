@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1601287082428,
+  "timestamp": 1601755210826,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -16,8 +16,8 @@
         "/5-es5.4a09179629d7938025a2.js",
         "/6-es2015.1cfd9e440ad2243747c0.js",
         "/6-es5.1cfd9e440ad2243747c0.js",
-        "/7-es2015.f347a1bacada1731506a.js",
-        "/7-es5.f347a1bacada1731506a.js",
+        "/7-es2015.f21df2b0c67fd54c350c.js",
+        "/7-es5.f21df2b0c67fd54c350c.js",
         "/8-es2015.2c6f238255b936fbc7a3.js",
         "/8-es5.2c6f238255b936fbc7a3.js",
         "/9-es2015.d1cdb938758f65c2e3c3.js",
@@ -29,8 +29,8 @@
         "/manifest.webmanifest",
         "/polyfills-es2015.a0fa45e0fa52702b64f0.js",
         "/polyfills-es5.2dcde1efe3c1bf4aaa25.js",
-        "/runtime-es2015.72ef995d409ae7e84ef7.js",
-        "/runtime-es5.72ef995d409ae7e84ef7.js",
+        "/runtime-es2015.70c453530ec27251ce70.js",
+        "/runtime-es5.70c453530ec27251ce70.js",
         "/styles.f6e4367e8dc5d6d9efd7.css"
       ],
       "patterns": []
@@ -64,8 +64,8 @@
     "/5-es5.4a09179629d7938025a2.js": "4ea565547bde66f5684eed4303cdd207377fe085",
     "/6-es2015.1cfd9e440ad2243747c0.js": "6955790a5ae67c8af220621821a9b8961655705e",
     "/6-es5.1cfd9e440ad2243747c0.js": "8385c0a6adf27201e451001deaa761e8342da5cb",
-    "/7-es2015.f347a1bacada1731506a.js": "5414f26b3734969d000d95e81d1eb88dd3ce2011",
-    "/7-es5.f347a1bacada1731506a.js": "044e7e8e6eb958cacdaa4416815ec2d63ac810ec",
+    "/7-es2015.f21df2b0c67fd54c350c.js": "4cbafc63cc2f4f34bf24602e35e16bbd98ed9d2b",
+    "/7-es5.f21df2b0c67fd54c350c.js": "13f11f5b29d576a249992822fb9e8808275bf37d",
     "/8-es2015.2c6f238255b936fbc7a3.js": "c08e8417bbe7bbba2b1ee6c82c595d447cd590ab",
     "/8-es5.2c6f238255b936fbc7a3.js": "c6f22c7010bc0e45f3b2e5faaa2458d489522d33",
     "/9-es2015.d1cdb938758f65c2e3c3.js": "69b3764c1e742b9ce0fc6a7172bf0db1bc747d13",
@@ -81,14 +81,14 @@
     "/assets/service-workers/qr-scanner-worker.min.js": "bac8bd397adfa737bed02504691701c876194ad9",
     "/assets/service-workers/qr-scanner-worker.min.js.map": "55ebd43c8ac1d9425e0ae07c64c6086cfc498198",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "8d21acc56ea000bd0c5d7844f1c3484b56d4b7d9",
+    "/index.html": "c7b1c214a2f5c44676502f697f1b0fa1da31709a",
     "/main-es2015.2b33eed55e16bc239123.js": "70ec536abefe52a52f0362296baee6a0a3e84c0a",
     "/main-es5.2b33eed55e16bc239123.js": "b79bc52abd141c90a6dde0f3f3109239baa752fb",
     "/manifest.webmanifest": "77d75bed40a8253c7fd57fd6f7e62b79c666a0b0",
     "/polyfills-es2015.a0fa45e0fa52702b64f0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/polyfills-es5.2dcde1efe3c1bf4aaa25.js": "ff14d90e08622190714660721edab5f43578829a",
-    "/runtime-es2015.72ef995d409ae7e84ef7.js": "1c00eb0efd602f3bb645ee177bed7107e77ec94f",
-    "/runtime-es5.72ef995d409ae7e84ef7.js": "d21663033e95ac21b2a1baec2eb0b17fe1f85634",
+    "/runtime-es2015.70c453530ec27251ce70.js": "eb443a002839fa589ba408c2bf13fab99db5ddda",
+    "/runtime-es5.70c453530ec27251ce70.js": "ed9d4d9ed78cd834cb935059cb9a983765c7849b",
     "/styles.f6e4367e8dc5d6d9efd7.css": "c1b6bee5323a13b586d3b5fb3b7849f2cee6111d"
   },
   "navigationUrls": [
