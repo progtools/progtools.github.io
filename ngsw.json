@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627811650023,
+  "timestamp": 1627812619213,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -66,7 +66,6 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
-        "/assets/scully-routes.json",
         "/assets/service-workers/qr-scanner-worker.min.js",
         "/assets/service-workers/qr-scanner-worker.min.js.map",
         "/assets/svg/glob2.svg",
@@ -115,7 +114,6 @@
     "/assets/icons/icon-512x512.png": "db2ad462234d015d0350a03ced811fbd8bf666c8",
     "/assets/icons/icon-72x72.png": "b77f2a6c4fa13c0f07a93bf1df70a766d67ba100",
     "/assets/icons/icon-96x96.png": "917740e861acae7ea3a6a564a7239f9adea08fdf",
-    "/assets/scully-routes.json": "555bbde8980446fa5164c38a327ce8996f297f80",
     "/assets/service-workers/qr-scanner-worker.min.js": "bac8bd397adfa737bed02504691701c876194ad9",
     "/assets/service-workers/qr-scanner-worker.min.js.map": "55ebd43c8ac1d9425e0ae07c64c6086cfc498198",
     "/assets/svg/glob2.svg": "04c5c767269ec002ce0d8383e14c7194105d3fa1",

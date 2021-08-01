@@ -1,1 +1,1 @@
-[{"route":"/finance"},{"route":"/home"},{"route":"/webrtc"},{"route":"/webrtc/p2pchat"},{"route":"/camera"},{"route":"/camera/qr"},{"route":"/camera/crop"},{"route":"/time/worldTime"},{"route":"/time/countDown"},{"route":"/"}]
+[{"route":"/finance"},{"route":"/home"},{"route":"/webrtc"},{"route":"/webrtc/p2pchat"},{"route":"/camera"},{"route":"/camera/qr"},{"route":"/camera/crop"},{"route":"/time/worldTime"},{"route":"/time/countDown"},{"route":"/"},{"route":"/finance/compound-interest"}]
