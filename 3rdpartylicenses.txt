@@ -99,6 +99,9 @@ MIT
 
 @scullyio/ng-lib
 
+angular-google-tag-manager
+MIT
+
 core-js
 MIT
 Copyright (c) 2014-2021 Denis Pushkarev
