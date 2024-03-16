@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1693146351802,
+  "timestamp": 1710595183650,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -109,7 +109,7 @@
     "/assets/icons/icon-512x512.png": "db2ad462234d015d0350a03ced811fbd8bf666c8",
     "/assets/icons/icon-72x72.png": "b77f2a6c4fa13c0f07a93bf1df70a766d67ba100",
     "/assets/icons/icon-96x96.png": "917740e861acae7ea3a6a564a7239f9adea08fdf",
-    "/assets/scully-routes.json": "aa13ce2079f749ee5a39236b98ef049ac37d3b78",
+    "/assets/scully-routes.json": "9ca6c0aebd0557d7786e1ef22246a5af3742c9f8",
     "/assets/service-workers/qr-scanner-worker.min.js": "c6d52e7eb260370178a7eee7ba48e73f5c215330",
     "/assets/service-workers/qr-scanner-worker.min.js.map": "55ebd43c8ac1d9425e0ae07c64c6086cfc498198",
     "/assets/svg/glob2.svg": "f551aa636a7c35522b34d82c1297e4a393630f3b",
@@ -122,7 +122,7 @@
     "/assets/svg/wrench-svgrepo-com.svg": "98faf0fb409672cba8353deafca85bb7557b757d",
     "/common.68602cc29d2e89a0.js": "eb48a02879b3744d74da28adab6dcdb54b00bd6a",
     "/favicon.ico": "ada8e45ec1de75b902dfa0f1244929498338f772",
-    "/index.html": "b1e9e5b8ffe7f43e4e20de0ddffa405b40aa58c7",
+    "/index.html": "169ca31991b5fa01f2bd84d6a2ee8fb88633372e",
     "/main.cfe0d7540b8f9004.js": "76e7b16b4063ea867aadd1271ef1f5e5a6f641b1",
     "/manifest.webmanifest": "b546be6d5ee9b010a2915e842009380d86390d2a",
     "/polyfills.039868ae2f2569e0.js": "9215c56089ca379797705a1b31c499c340656b91",
