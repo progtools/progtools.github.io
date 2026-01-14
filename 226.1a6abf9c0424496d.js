@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprog_tools=self.webpackChunkprog_tools||[]).push([[226],{9226:(u,s,o)=>{o.r(s),o.d(s,{routes:()=>n});const n=[{path:"",component:o(7905).U9}]}}]);
